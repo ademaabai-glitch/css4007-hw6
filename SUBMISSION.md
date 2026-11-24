@@ -58,6 +58,9 @@ V2(2,3) = 5.21. Best action: up.
 ### Best-action arrows
 
 (1,2) right, (1,3) right, (2,3) up. There are no ties.
+→ → → G
+↑ # ↑ H
+→ → ↑ ←
 
 ### Why two rounds are not enough
 
